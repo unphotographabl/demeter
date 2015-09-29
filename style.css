@@ -1,0 +1,113 @@
+.c{color: #F08080;
+	 font: normal small-caps 120px/140px fantasy;
+	text-align: center;}
+
+
+.b{background-image: url('demeter-banner.jpg')
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color:  #FFFFFF;
+	width: 100%; border-spacing: 0; 
+	text-align: center;
+
+ }
+ 
+
+.t,.k{color:#CD5C5C;
+	 	text-align: center;
+	 	font-family: 'Helvetica Neue UltraLight';
+		font-size: 39px;
+		font-style: normal;
+		font-variant: small-caps;
+		font-weight: 100;
+		line-height: 42.9px;}
+
+
+.t1 {font-family: "Palatino Linotype, Book Antiqua3" serif;
+	font-size: 17px;
+	font-style: oblique;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 19.8px
+	color: #CD5C5C}
+.t2{float: left; 
+    background: #F1DAE2; 
+    border: 3px white; 
+    padding: 10px; 
+    margin-right: 20px; 
+    width: 25%;
+    border-radius: 50px; 
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 14.5px;
+	color:#372F32;}
+.k{position: fixed;
+	 top:50;
+	 right:50;
+	 } 
+
+.button{
+ text-decoration:none; 
+ text-align:center; 
+ padding:11px 32px; 
+ border:none; 
+ -webkit-border-radius:18px;
+ -moz-border-radius:18px; 
+ border-radius: 18px; 
+ font:18px "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+ font-weight:bold; 
+ color:#ed6d77; 
+ background-color:#f7f7f7; 
+ background-image: -moz-linear-gradient(top, #f7f7f7 0%, #e8d3db 100%); 
+ background-image: -webkit-linear-gradient(top, #f7f7f7 0%, #e8d3db 100%); 
+ background-image: -o-linear-gradient(top, #f7f7f7 0%, #e8d3db 100%); 
+ background-image: -ms-linear-gradient(top, #f7f7f7 0% ,#e8d3db 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8d3db', endColorstr='#e8d3db',GradientType=0 ); 
+ background-image: linear-gradient(top, #f7f7f7 0% ,#e8d3db 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+ opacity:0.71; 
+ -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=71); 
+ filter: alpha(opacity=71); 
+ text-shadow: 0px 0px 2px #ebe2e9; 
+ filter: dropshadow(color=#ebe2e9, offx=0, offy=0); }
+ 
+
+ .adress {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 213px;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+  margin: 24px;
+  padding: 100px 100px 100px 16px;
+  overflow: hidden;
+  border: 0 solid;
+  border-left: 9px solid rgba(155,132,132,1);
+  -webkit-border-radius: 18px;
+  border-radius: 18px;
+  font: normal 18px/1 "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: rgba(66,57,57,1);
+	text-decoration: underline;
+	text-align: justify;
+	text-indent: -4px;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	letter-spacing: 1px;
+	white-space: pre-line;
+	word-spacing: 52px;
+  background: rgba(237,230,233,1);
+  -webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+  -webkit-transform: rotateX(0.0856365273deg) rotateY(0.6867596876deg) rotateZ(-0.8326752779deg)   ;
+  transform: rotateX(0.0856365273deg) rotateY(0.6867596876deg) rotateZ(-0.8326752779deg)   ;
+}
+.pic{text-align: center;}
+
